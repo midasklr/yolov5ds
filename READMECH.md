@@ -52,7 +52,7 @@ python trainds.py
 
 ## demo
 
-see detectds.py. VOC上权重见 https://github.com/midasklr/yolov5ds/releases/download/v6.0/yolodsvoc.pt:
+see detectds.py. VOC上权重见[weights](https://github.com/midasklr/yolov5ds/releases/download/v6.0/yolodsvoc.pt):
 
 <p align="center">
 <img src="data/images/2007_000033_yolods.png">
