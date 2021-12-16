@@ -1,0 +1,23 @@
+
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+path: .  # dataset root dir
+train: VOC/det/images/train  # train images (relative to 'path') 118287 images
+val: VOC/det/images/test  # train images (relative to 'path') 5000 images
+road_seg_train: VOC/seg/images/train   # road segmentation data
+road_seg_val: VOC/seg/images/val
+
+# Classes
+nc: 20  # number of classes
+segnc: 20
+
+names: ['aeroplane', 'bicycle', 'bird', 'boat',
+           'bottle', 'bus', 'car', 'cat', 'chair',
+           'cow', 'diningtable', 'dog', 'horse',
+           'motorbike', 'person', 'pottedplant',
+           'sheep', 'sofa', 'train', 'tvmonitor']  # class names
+
+segnames: ['aeroplane', 'bicycle', 'bird', 'boat',
+           'bottle', 'bus', 'car', 'cat', 'chair',
+           'cow', 'diningtable', 'dog', 'horse',
+           'motorbike', 'person', 'pottedplant',
+           'sheep', 'sofa', 'train', 'tvmonitor']
