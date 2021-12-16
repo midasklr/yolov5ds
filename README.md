@@ -58,7 +58,7 @@ the input size is 512(letter box).
 | SSD512               | 79.8         |
 | yolov5s+seghead(512) | 79.2         |
 
-The above results only trained less than 200 epoch, [weights]()
+The above results only trained less than 200 epoch, [weights](https://github.com/midasklr/yolov5ds/releases/download/v6.0/yolodsvoc.pt)
 
 ## demo
 
