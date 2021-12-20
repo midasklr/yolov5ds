@@ -41,7 +41,7 @@ python trainds.py
 <img src="data/images/Screenshot.png">
 </p>
 
-As VOC dataset do not offer the box labels and mask labels, so we forward this model with a detection batch and a segmention batch , and accumulate the gradient , than update the whole model parameters.
+As VOC dataset do not offer the box labels and mask labels for all images, so we forward this model with a detection batch and a segmention batch , and accumulate the gradient , than update the whole model parameters.
 
 ## MAP
 
