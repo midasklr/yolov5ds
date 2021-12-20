@@ -25,7 +25,7 @@ All experiments is trained on a small dataset with 47 classes ,2.6k+ images for 
 | yolov5s + decoupled head+class balance weights | 0.574 | 0.386 | 0.403  | 0.22      |
 | yolov5s + decoupled head+seghead               | 0.533 | 0.383 | 0.396  | 0.212     |
 
-The baseline model is yolov5s. and decoupled head, add class balance weights all helps to improve MAP.
+The baseline model is yolov5s. triks like decoupled head, add class balance weights all help to improve MAP.
 
 Adding a segmentation head can still get  equivalent MAP as single detection model.
 
