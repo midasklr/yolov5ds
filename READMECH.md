@@ -118,7 +118,9 @@ see detectds.py. VOC上权重见[weights](https://github.com/midasklr/yolov5ds/r
 
 ## Blog
 
-https://blog.csdn.net/IEEE_FELLOW/article/details/121912670
+1. https://blog.csdn.net/IEEE_FELLOW/article/details/121912670
+2. https://blog.csdn.net/qq_57076285/article/details/124265887
+3. https://blog.csdn.net/sadjhaksdas/article/details/125762260
 
 ## Reference
 
