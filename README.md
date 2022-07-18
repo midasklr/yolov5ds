@@ -132,3 +132,9 @@ see detectds.py.
 
 1. [YOLOP: You Only Look Once for Panoptic Driving Perception](https://arxiv.org/abs/2108.11250)
 2. [yolov5]( https://github.com/ultralytics/yolov5)
+
+## Blogs
+
+1. https://blog.csdn.net/IEEE_FELLOW/article/details/121912670?spm=1001.2014.3001.5502
+2. https://blog.csdn.net/qq_57076285/article/details/124265887
+3. https://blog.csdn.net/sadjhaksdas/article/details/125762260
